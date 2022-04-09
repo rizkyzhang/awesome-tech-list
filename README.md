@@ -4,6 +4,10 @@ A curated list of awesome things related
 to web develomment I found on my web 
 development journey.
 
-### General
+## Resources
 
-- [Roadmap.sh](https://roadmap.sh/) - A collection of web development learning roadmap.
+### General
+- [roadmap.sh](https://roadmap.sh/) - A collection of web development learning roadmap.
+
+### JavaScript
+- [javascript.info](https://javascript.info/) - The Modern JavaScript Tutorial.
