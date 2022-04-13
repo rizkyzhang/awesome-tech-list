@@ -7,7 +7,7 @@ development journey.
 ## General
 - [roadmap.sh](https://roadmap.sh/) - A collection of web development learning roadmap.
 - [Responsively](https://responsively.app/) - A dev-tool that aids faster and precise responsive web development.
-- [SmallDevtools](https://smalldev.tools/) - A collecton of web development tools.
+- [SmallDevtools](https://smalldev.tools/) - A collection of web development tools.
 
 ## JavaScript
 - [javascript.info](https://javascript.info/) - The Modern JavaScript Tutorial.
