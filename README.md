@@ -22,6 +22,14 @@ development journey.
 - [javascript.info](https://javascript.info/) - The Modern JavaScript Tutorial
 
 
+## React
+### Style
+- [Base Web](https://baseweb.design/) - Highly customizable UI framework created by Uber. 
+It has a lot of pre-made component, some of it is very unique and I can't find it on other framework yet
+such as drag&drop list, file uploader, map marker and payment card input.
+
+
 ## TypeScript
 ### Learn
 - [Understanding TypeScript Configuration Options](https://javascript.plainenglish.io/typescript-configuration-options-tsconfig-json-561d4a2ad4b)
+
