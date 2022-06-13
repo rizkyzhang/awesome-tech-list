@@ -29,6 +29,8 @@ It has a lot of pre-made component, some of it is very unique and I can't find i
 such as drag&drop list, file uploader, map marker and payment card input.
 - [Iconify](https://www.npmjs.com/package/@iconify/react) - Unified icons framework with more than 100 icon sets in one library.
 
+### Utility
+- [React Colorful](A tiny (2,8 KB) color picker component for React and Preact apps) - https://github.com/omgovich/react-colorful
 
 ## TypeScript
 ### Learn
