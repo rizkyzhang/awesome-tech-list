@@ -31,6 +31,7 @@ such as drag&drop list, file uploader, map marker and payment card input.
 
 ### Utility
 - [React Colorful](https://github.com/omgovich/react-colorful) - A tiny (2,8 KB) color picker component for React and Preact apps.
+- [Tiptap](https://tiptap.dev/) - Very customizeable and dev friendly rich text editor framework. Much better than react quill in term of customization, no hardcoded classname and can easily create new plugin.
 
 ## TypeScript
 ### Learn
