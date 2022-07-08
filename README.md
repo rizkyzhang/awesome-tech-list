@@ -16,11 +16,11 @@ development journey.
 ## Git
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - A guide for astronauts (now, programmers using Git) about what to do when things go wrong.
 
+## Golang
+- [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/) - An open source Golang tutorial with study cases written in Indonesian language.
 
 ## JavaScript
-### Learn
 - [javascript.info](https://javascript.info/) - The Modern JavaScript Tutorial.
-
 
 ## React
 ### Style
@@ -34,6 +34,5 @@ such as drag&drop list, file uploader, map marker and payment card input.
 - [Tiptap](https://tiptap.dev/) - Very customizeable and dev friendly rich text editor framework. Much better than react quill in term of customization, no hardcoded classname and can easily create new plugin.
 
 ## TypeScript
-### Learn
 - [Understanding TypeScript Configuration Options](https://javascript.plainenglish.io/typescript-configuration-options-tsconfig-json-561d4a2ad4b)
 
