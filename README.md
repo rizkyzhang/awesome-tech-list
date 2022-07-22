@@ -8,6 +8,7 @@ development journey.
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 - [Devdocs.io](https://devdocs.io/) - All in one tech documentation website (100+): HTML, CSS, JS, Go, and more.
 - [Learn X in Y minutes](https://learnxinyminutes.com/) - Quick recap (cheatsheet) of algorithm, data structures, programming languages and tools.
+- [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
 - [Roadmap.sh](https://roadmap.sh/) - A collection of web development learning roadmap.
 - [Responsively](https://responsively.app/) - A dev-tool that aids faster and precise responsive web development.
 - [SmallDevtools](https://smalldev.tools/) - A collection of web development tools.
