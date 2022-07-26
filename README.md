@@ -40,4 +40,4 @@ such as drag&drop list, file uploader, map marker and payment card input.
 
 ## TypeScript
 - [Understanding TypeScript Configuration Options](https://javascript.plainenglish.io/typescript-configuration-options-tsconfig-json-561d4a2ad4b)
-
+- [TS Prune](https://github.com/nadeesha/ts-prune) - Find potentially unused exports in your Typescript project with zero configuration.
