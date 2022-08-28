@@ -5,6 +5,7 @@ to web develomment I found on my web
 development journey.
 
 ## General
+- [Bobbyhadz blog](https://bobbyhadz.com/)
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 - [Devdocs.io](https://devdocs.io/) - All in one tech documentation website (100+): HTML, CSS, JS, Go, and more.
 - [Learn X in Y minutes](https://learnxinyminutes.com/) - Quick recap (cheatsheet) of algorithm, data structures, programming languages and tools.
@@ -13,6 +14,7 @@ development journey.
 - [Roadmap.sh](https://roadmap.sh/) - A collection of web development learning roadmap.
 - [Responsively](https://responsively.app/) - A dev-tool that aids faster and precise responsive web development.
 - [SmallDevtools](https://smalldev.tools/) - A collection of web development tools.
+- [The Web Dev](https://thewebdev.info/) - A site all about web development.
 
 
 ## Git
