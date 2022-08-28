@@ -9,6 +9,7 @@ development journey.
 - [Devdocs.io](https://devdocs.io/) - All in one tech documentation website (100+): HTML, CSS, JS, Go, and more.
 - [Learn X in Y minutes](https://learnxinyminutes.com/) - Quick recap (cheatsheet) of algorithm, data structures, programming languages and tools.
 - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
+- [The OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics.
 - [Roadmap.sh](https://roadmap.sh/) - A collection of web development learning roadmap.
 - [Responsively](https://responsively.app/) - A dev-tool that aids faster and precise responsive web development.
 - [SmallDevtools](https://smalldev.tools/) - A collection of web development tools.
