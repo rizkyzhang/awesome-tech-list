@@ -21,7 +21,9 @@ development journey.
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - A guide for astronauts (now, programmers using Git) about what to do when things go wrong.
 
 ## Golang
+- [Better Go Playground](https://goplay.tools/)
 - [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/) - An open source Golang tutorial with study cases written in Indonesian language.
+
 
 ## JavaScript
 - [javascript.info](https://javascript.info/) - The Modern JavaScript Tutorial.
