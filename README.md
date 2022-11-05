@@ -22,6 +22,7 @@ development journey.
 
 ## Golang
 - [Better Go Playground](https://goplay.tools/)
+- [Echo](https://echo.labstack.com) - High performance, extensible, minimalist Go web framework
 - [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/) - An open source Golang tutorial with study cases written in Indonesian language.
 
 
