@@ -21,6 +21,7 @@ development journey.
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - A guide for astronauts (now, programmers using Git) about what to do when things go wrong.
 
 ## Golang
+- [Air](https://github.com/cosmtrek/air) - Live reload for Go apps
 - [Better Go Playground](https://goplay.tools/)
 - [Echo](https://echo.labstack.com) - High performance, extensible, minimalist Go web framework
 - [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/) - An open source Golang tutorial with study cases written in Indonesian language.
