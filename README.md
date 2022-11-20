@@ -22,6 +22,7 @@ development journey.
 
 ## Golang
 - [Air](https://github.com/cosmtrek/air) - Live reload for Go apps
+- [bojanz/currency](https://github.com/bojanz/currency) - Handles currency amounts, provides currency information and formatting. Powered by CLDR v42, in just ~30kb of data
 - [Better Go Playground](https://goplay.tools/)
 - [Echo](https://echo.labstack.com) - High performance, extensible, minimalist Go web framework
 - [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/) - An open source Golang tutorial with study cases written in Indonesian language.
