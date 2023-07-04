@@ -18,7 +18,9 @@ development journey.
 - [The Web Dev](https://thewebdev.info/) - A site all about web development.
 
 ## API
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Free fake API for testing and prototyping.
 - [httpbin](https://httpbin.org/) - A simple HTTP Request & Response Service.
+
 
 ## Git
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - A guide for astronauts (now, programmers using Git) about what to do when things go wrong.
