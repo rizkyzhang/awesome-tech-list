@@ -7,6 +7,7 @@ development journey.
 ## General
 - [Bobbyhadz blog](https://bobbyhadz.com/)
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
+- [Code Beautify](https://codebeautify.org/) - Code Formatter, JSON Beautifier, XML Viewer, Hex Converters and more.
 - [Devdocs.io](https://devdocs.io/) - All in one tech documentation website (100+): HTML, CSS, JS, Go, and more.
 - [Learn X in Y minutes](https://learnxinyminutes.com/) - Quick recap (cheatsheet) of algorithm, data structures, programming languages and tools.
 - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
