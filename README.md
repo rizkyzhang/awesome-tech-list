@@ -11,13 +11,15 @@ development journey.
 - [Devdocs.io](https://devdocs.io/) - All in one tech documentation website (100+): HTML, CSS, JS, Go, and more.
 - [Learn X in Y minutes](https://learnxinyminutes.com/) - Quick recap (cheatsheet) of algorithm, data structures, programming languages and tools.
 - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
-- [The OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics.
+- [quicktype](https://quicktype.io/) - Convert JSON into gorgeous, typesafe code in any language.
 - [Roadmap.sh](https://roadmap.sh/) - A collection of web development learning roadmap.
 - [Responsively](https://responsively.app/) - A dev-tool that aids faster and precise responsive web development.
 - [SmallDevtools](https://smalldev.tools/) - A collection of web development tools.
 - [TableConvert](https://tableconvert.com/) - TableConvert Online is a web-based tool to converts Excel, URL, HTML, JSON, CSV, Markdown and LaTex table to CSV/TSV, XML, YAML, Markdown table, insert SQL, HTML, Excel and LaTeX table. Built-in a little table editor, behaving much like cells in Microsoft Excel. Our mission is make it easier to work with tables.
 - [The Web Dev](https://thewebdev.info/) - A site all about web development.
 - [Text Edit](https://textedit.tools/) - Online Text Edit Tools
+- [The OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics.
+
 
 ---
 
