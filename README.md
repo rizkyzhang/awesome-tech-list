@@ -17,11 +17,11 @@ development journey.
 - [SmallDevtools](https://smalldev.tools/) - A collection of web development tools.
 - [TableConvert](https://tableconvert.com/) - TableConvert Online is a web-based tool to converts Excel, URL, HTML, JSON, CSV, Markdown and LaTex table to CSV/TSV, XML, YAML, Markdown table, insert SQL, HTML, Excel and LaTeX table. Built-in a little table editor, behaving much like cells in Microsoft Excel. Our mission is make it easier to work with tables.
 - [The Web Dev](https://thewebdev.info/) - A site all about web development.
+- [Text Edit](https://textedit.tools/) - Online Text Edit Tools
 
 ## API
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Free fake API for testing and prototyping.
 - [httpbin](https://httpbin.org/) - A simple HTTP Request & Response Service.
-
 
 ## Git
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - A guide for astronauts (now, programmers using Git) about what to do when things go wrong.
@@ -33,8 +33,6 @@ development journey.
 - [Copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
 - [Echo](https://echo.labstack.com) - High performance, extensible, minimalist Go web framework
 - [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/) - An open source Golang tutorial with study cases written in Indonesian language.
-
-
 
 ## JavaScript
 - [javascript.info](https://javascript.info/) - The Modern JavaScript Tutorial.
