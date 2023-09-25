@@ -19,12 +19,12 @@ development journey.
 - [The Web Dev](https://thewebdev.info/) - A site all about web development.
 - [Text Edit](https://textedit.tools/) - Online Text Edit Tools
 
-## API
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Free fake API for testing and prototyping.
-- [httpbin](https://httpbin.org/) - A simple HTTP Request & Response Service.
+---
 
 ## Git
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - A guide for astronauts (now, programmers using Git) about what to do when things go wrong.
+
+---
 
 ## Golang
 - [Air](https://github.com/cosmtrek/air) - Live reload for Go apps
@@ -34,13 +34,19 @@ development journey.
 - [Echo](https://echo.labstack.com) - High performance, extensible, minimalist Go web framework
 - [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/) - An open source Golang tutorial with study cases written in Indonesian language.
 
+---
+
 ## JavaScript
 - [javascript.info](https://javascript.info/) - The Modern JavaScript Tutorial.
+
+---
 
 ## Linux
 - [Cyberciti](https://www.cyberciti.biz/) - Linux Tips, Hacks, Tutorials, And Ideas In Blog.
 - [Ryan's Tutorials](https://ryanstutorials.net/) - A collection of introductory technology tutorials.
 - [ni](https://github.com/antfu/ni) - Easily switch between npm, pnpm, yarn and bun
+
+---
 
 ## React
 ### Style
@@ -52,6 +58,19 @@ such as drag&drop list, file uploader, map marker and payment card input.
 ### Utility
 - [React Colorful](https://github.com/omgovich/react-colorful) - A tiny (2,8 KB) color picker component for React and Preact apps.
 - [Tiptap](https://tiptap.dev/) - Very customizeable and dev friendly rich text editor framework. Much better than react quill in term of customization, no hardcoded classname and can easily create new plugin.
+
+---
+
+## Testing
+### API
+- [httpbin](https://httpbin.org/) - A simple HTTP Request & Response Service.
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Free fake API for testing and prototyping.
+- [localtunnel](https://github.com/localtunnel/localtunnel) - Expose localhost with custom static subdomain for free.
+
+### Email
+- [Mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers.
+
+---
 
 ## TypeScript
 - [Understanding TypeScript Configuration Options](https://javascript.plainenglish.io/typescript-configuration-options-tsconfig-json-561d4a2ad4b)
