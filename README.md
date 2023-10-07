@@ -44,6 +44,7 @@ development journey.
 ---
 
 ## Linux
+- [Baeldung Linux](https://www.baeldung.com/linux/) - Focusing on unique Linux issue or tutorial that is hard to find
 - [Cyberciti](https://www.cyberciti.biz/) - Linux Tips, Hacks, Tutorials, And Ideas In Blog.
 - [Ryan's Tutorials](https://ryanstutorials.net/) - A collection of introductory technology tutorials.
 - [ni](https://github.com/antfu/ni) - Easily switch between npm, pnpm, yarn and bun
