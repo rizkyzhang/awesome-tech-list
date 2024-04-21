@@ -47,6 +47,7 @@ to tech I found on my software engineering journey.
 - [Cyberciti](https://www.cyberciti.biz/) - Linux Tips, Hacks, Tutorials, And Ideas In Blog.
 - [Ryan's Tutorials](https://ryanstutorials.net/) - A collection of introductory technology tutorials.
 - [ni](https://github.com/antfu/ni) - Easily switch between npm, pnpm, yarn and bun
+- [Ventoy](https://www.ventoy.net/en/index.html)
 
 ---
 
