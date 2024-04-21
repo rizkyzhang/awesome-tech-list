@@ -1,8 +1,7 @@
-# Awesome Web Dev List
+# Awesome Tech List
 
 A curated list of awesome things related 
-to web develomment I found on my web 
-development journey.
+to tech I found on my software engineering journey.
 
 ## General
 - [Bobbyhadz blog](https://bobbyhadz.com/)
